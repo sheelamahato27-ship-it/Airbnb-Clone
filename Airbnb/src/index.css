@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+
+
+#gurgaon::-webkit-scrollbar {
+  display: none;
+}
+
+
+#varanasi::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+#kolkata::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+
+#darjeeling::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+#bengaluru::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+#buddhaNagar::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+#NewDelhi::-webkit-scrollbar {
+  display: none;
+}
+
+
+#ranchi::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+#dehradun::-webkit-scrollbar {
+  display: none;
+}
